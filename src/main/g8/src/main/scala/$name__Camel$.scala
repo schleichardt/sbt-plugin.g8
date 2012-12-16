@@ -1,7 +1,9 @@
 package $organization$
 
 import sbt._
-object $name;format="Camel"$Plugin extends Plugin
+import Keys._
+
+object $name;format="Camel"$ extends Plugin
 {
     
 }
